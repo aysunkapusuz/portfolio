@@ -2212,6 +2212,13 @@ input, select, textarea {
 		background-position: top left, center center;
 		background-repeat: no-repeat;
 	}
+	#one #onebox{
+		background-color: #bce1f4;
+	}
+	#two #twobox{
+		background-color: #bce1f4;
+	}
+
 
 /* Two */
 
