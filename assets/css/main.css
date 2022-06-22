@@ -2214,10 +2214,13 @@ input, select, textarea {
 	}
 	#one #onebox{
 		background-color: #eff3f6;
+		border-bottom-left-radius: 30px;
+		border-top-left-radius: 30px;
 	}
 	#two #twobox{
-		background-color: #eff3f6
-		border-radius: 10px;
+		background-color: #eff3f6;
+		border-bottom-right-radius: 30px;
+		border-top-right-radius: 30px;
 	}
 
 
